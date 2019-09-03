@@ -1,6 +1,7 @@
 # display7segments
 This repository contains a simple detection numerical of 7-segment display
-Note: It's necessary to consider an image only with numbers and without rectangular border.
+
+- Note: It's necessary to consider an image only with numbers and without rectangular border.
 
 # Require these packages
 - numpy
